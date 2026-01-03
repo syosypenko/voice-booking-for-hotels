@@ -4,6 +4,9 @@ Ever wished your hotel guests could just *talk* to book a room? This project mak
 
 It's a voice-powered booking assistant that lets people reserve rooms by speaking naturally, in their own language. Perfect for hotels that want to make booking easier and more accessible for everyone.
 
+![Generated Image January 03, 2026 - 1_05PM](https://github.com/user-attachments/assets/2e6b5def-6bdd-4925-9a77-ee09ae247235)
+
+
 ## What's This All About?
 
 Booking a hotel room shouldn't feel like filling out a tax form. This assistant lets guests have a natural conversation to check availability, choose rooms, and complete bookings—all through voice.
@@ -82,12 +85,12 @@ Built with modern, reliable tools:
 
 ## Built for Real Use
 
-This isn't just a tech experiment—it's designed to actually work in the real world:
-
 - **Production-ready architecture** - Built with scalability and reliability in mind
 - **Simple deployment** - Get up and running without a massive DevOps effort
 - **OTA-friendly** - Works alongside existing booking platforms, not against them
 - **Flexible integration** - Adapts to your existing hotel tech stack
+
+  ![Generated Image January 03, 2026 - 1_07PM](https://github.com/user-attachments/assets/3fd215cc-6fe7-4f7f-b475-68e4bf871d9d)
 
 ## What's Next
 
